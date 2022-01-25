@@ -23,7 +23,7 @@ td {
     border: 1px solid darkorchid;
 }
 
-.html-tags {
-    background-color: white;
+span {
+    background-color: beige;
     font-family: monospace;
 }
